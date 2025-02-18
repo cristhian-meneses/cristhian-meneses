@@ -7,4 +7,5 @@ Mi constante interes por aprender nuevos temas me ha llevado a combinar el dise√
 lo que me ha permitido descubrir un nuevo interes por los datos.</p>
 
 <h3>&#128213 Conocimientos</h3>
+Python | Excel | Power BI | Illustrator
  
