@@ -8,4 +8,10 @@ lo que me ha permitido descubrir que todo lo que vemos tiene relación.</p>
 
 <h3>&#128213 Conocimientos</h3>
 Python | Excel | Power BI | Illustrator
+
+<h3>&#128190 Proyectos</h3>
+POWER BI
+Análisis de ventas vs costos
+
+https://github.com/cristhian-meneses/analisisventas.git
  
